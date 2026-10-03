@@ -18,6 +18,9 @@ The dataset and SQL queries for this project were prepared with AI assistance an
 - Review monthly sales and profit trends.
 - Find high-value orders and check for zero or negative profit.
 
+## Project Domain
+- Retail
+
 ## 🗂️ Dataset
 
 The dataset contains 7,000 records and these columns:
